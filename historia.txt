@@ -1,1 +1,2 @@
-Hola esta es la historia de algo
+Esta es una historia sobre como empece a programar
+Empece en 2022, ya habia aprendido algo de programacion en la preparatoria y la universidad pero nunca profundice en lo aprendido
