@@ -1,8 +1,8 @@
 body
 {
-    color:blue;
+    color:black;
     text-align: center;
-    font-family:"Helvetica";
+    font-family:"Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,8 +10,8 @@ body
 
 #cabecera
 {
-    background: greenyellow;
-    color: blue;
+    background: rgb(42, 47, 129);
+    color: whitesmoke;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
